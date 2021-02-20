@@ -327,13 +327,98 @@ footer .footButton {
 
 
 @media screen and (max-width: 992px) {
-   
+    .container nav li {
+        margin: 7px;
+        margin-left: 0px;
+    }
+
+    .container .pageTitle{
+        margin-left: 40%;
+        margin-bottom: 7px;
+    }
+
+    .picture {
+        height: 285px;
+    }
+
+    main .aboutMe {      
+        margin: 2em;
+    }
+    .aboutMe {
+        margin: 4em;
+    }
+
+    .portfolioContain{
+        display:contents;
+    }
+
+    .portfolioContain img {
+        margin: 0px;
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+
+    .thumbnail1 {
+        margin-right: 20px;
+    }
+
+    .footButton {
+        width: 30%;
+    }
+
+    .contactInfo {
+        width: 70%;
+    }
 }
 
 
 @media screen and (max-width: 768px) {
-    
+    .container nav li {
+        margin: 5px;
+        margin-left: 10px;
+    }
+
+    .container .pageTitle{
+        margin-left: 36%;
+        margin-bottom: 10px;
+    }
+
+    .picture {
+        height: 200px;
+    }
+
+    main .aboutMe {      
+        margin: 2em;
+    }
+    .aboutMe {
+        margin: 4em;
+    }
+
+    .portfolioContain{
+        display:contents;
+    }
+
+    .portfolioContain img {
+        margin: 0px;
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+
+    .thumbnail1 {
+        margin-right: 20px;
+    }
+
+    .footButton {
+        width: 30%;
+    }
+
+    .contactInfo {
+        width: 70%;
+    }
 }
+
+
+
 
 
 @media screen and (max-width: 600px) {
@@ -375,6 +460,56 @@ footer .footButton {
 
     .footButton {
         width: 30%;
+    }
+
+    .contactInfo {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .container nav li {
+        margin: 7px;
+        margin-left: 0px;
+    }
+
+    .container .pageTitle{
+        margin-left: 23%;
+        margin-bottom: 7px;
+    }
+
+    .navButton {
+        padding: 7px;
+    }
+
+    .picture {
+        height: 200px;
+    }
+
+    main .aboutMe {      
+        margin: 2em;
+    }
+    .aboutMe {
+        margin: 4em;
+    }
+
+    .portfolioContain{
+        display:contents;
+    }
+
+    .portfolioContain img {
+        margin: 0px;
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+
+    .thumbnail1 {
+        margin-right: 20px;
+    }
+
+    .footButton {
+        width: 45%;
     }
 
     .contactInfo {
