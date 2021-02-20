@@ -1,4 +1,4 @@
-* {
+ * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -50,7 +50,7 @@ border-style: solid;
 border-color: white;
 border-width: 2px;
 padding: 10px;
-width: 15%;
+width: 206px;
 border-radius: 15px;
 font-family:bookman;
 font-size: larger;
@@ -61,7 +61,7 @@ margin-left: 43%;
 
 .picture {
 
-    height: 500px;
+    height: 400px;
     width: 100%;
     background-image: url("../images/Background-Hero.jpg");
     background-size: cover;
@@ -180,12 +180,9 @@ text-align: center;
     margin-bottom: 1px;
     font-size: 25px;
     border-right: 20px;
-
-
 }
 
 .portfolioContain {
-
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -194,7 +191,6 @@ text-align: center;
     border: 30px;
 
 }
-
 
 .work-header{
     border-style: solid;
@@ -222,13 +218,11 @@ text-align: center;
     flex-direction: row;
     flex-wrap: wrap;
 }
+
 .workBox{
     display: flex;
     flex-flow: column wrap;
-
-
 }
-
 
 .portfolioContain img {
 
@@ -237,9 +231,6 @@ text-align: center;
     height: 250px;
     margin: 19px;
 }
-
-
-
 
 .thumbnail {
     padding: 10px;
@@ -261,7 +252,6 @@ text-align: center;
     width: 300px;
     height: 300px;
     display: block;
-
 }
 
 .thumbnail1:hover{
@@ -276,9 +266,7 @@ a {
 
 
 .contactInfo h2 {
-
     text-align: center;
-
     width: 100%;
 
 }
@@ -294,7 +282,6 @@ a {
 }
 
 .footButton {
-
     margin:30px;
     background-color:#12232E;
     border: none;
@@ -311,13 +298,14 @@ a {
 footer {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-color: #12232E;;
-  color: white;
+    background-color: #12232E;;
+    color: white;
 }
 
 footer h2 {
     font-size: 20px;
 }
+
 footer p {
     text-align: center;
 }
@@ -328,9 +316,71 @@ footer .footButton {
     width: 10%;
     height: 10%;
     display: block;
-
 }
 
 .footButton:hover {
     transform: scale(1.5);
 }
+
+
+
+
+
+@media screen and (max-width: 992px) {
+   
+}
+
+
+@media screen and (max-width: 768px) {
+    
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .container nav li {
+        margin: 7px;
+        margin-left: 0px;
+    }
+
+    .container .pageTitle{
+        margin-left: 33%;
+        margin-bottom: 7px;
+    }
+
+    .picture {
+        height: 200px;
+    }
+
+    main .aboutMe {      
+        margin: 2em;
+    }
+    .aboutMe {
+        margin: 4em;
+    }
+
+    .portfolioContain{
+        display:contents;
+    }
+
+    .portfolioContain img {
+        margin: 0px;
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+
+    .thumbnail1 {
+        margin-right: 20px;
+    }
+
+    .footButton {
+        width: 30%;
+    }
+
+    .contactInfo {
+        width: 70%;
+    }
+}
+
+
+
