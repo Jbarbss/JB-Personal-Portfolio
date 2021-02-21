@@ -9,7 +9,7 @@
 ## 1. Description
 
 
-This personal protfolio will be able to show off my work and progress throughout my course.
+This personal portfolio will be able to show off my work and progress throughout my course.
 The html and css pages follow best practices for file structure and nameing conventions as well ad indentations and
 I have included my full name, a recent photo and links to sections in my page.
 If you click on the links, the page wil scroll to that section.
