@@ -32,10 +32,9 @@ Smaller devices screen example:
 ### Click link to open in your browser.
 
 
-[github pages site] https://jbarbss.github.io/JB-Personal-Portfolio/
+[github pages site] assets/images/Full-JB-Personal-Portfolio.png
 
-[github repository site] https://github.com/Jbarbss/JB-Personal-Portfolio
-
+[github repository site] assets/images/400 px-JB-Personal-Portfolio.png
 
 <a name="contributions"></a>
 ## 3. Contributions
