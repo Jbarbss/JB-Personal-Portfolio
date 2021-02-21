@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color:#007CC7;
+    background-color:#127bfa;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -168,6 +168,7 @@ main .aboutMe {
 
 .aboutInfo p {
     font-size: 20px;
+    font-family:bookman;
 }
 
  h2 {
