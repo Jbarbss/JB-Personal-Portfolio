@@ -20,11 +20,11 @@ My protfolio will deploy live with no errors and all files can be seen in my Git
 
 Desktop screen:
 
-![Top-Page-Area](assets/images/full_Design_Portfolio.png "Top-Page-Area")
+![Top-Page-Area](assets/images/Full-JB-Personal-Portfolio.png "Top-Page-Area")
 
 Smaller devices screen example:
 
-![Top-Page-Area](assets/images/400-px-JB-Personal-Portfolio.png "Top-Page-Area")
+![Top-Page-Area](assets/images/400px-JB-Personal-Portfolio.png "Top-Page-Area")
 
 <a name="web-address"></a>
 ## 2. How to Get There
@@ -32,9 +32,10 @@ Smaller devices screen example:
 ### Click link to open in your browser.
 
 
-[github pages site] assets/images/Full-JB-Personal-Portfolio.png
+[github pages site] https://jbarbss.github.io/JB-Personal-Portfolio/
 
-[github repository site] assets/images/400 px-JB-Personal-Portfolio.png
+[github repository site] https://github.com/Jbarbss/JB-Personal-Portfolio
+
 
 <a name="contributions"></a>
 ## 3. Contributions
