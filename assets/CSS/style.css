@@ -20,7 +20,7 @@ body {
 
 
 }
-
+/* Header of page */
 .container {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ text-transform: uppercase;
 margin-left: 43%;
 
 }
-
+/* hero picture */
 .picture {
 
     height: 400px;
@@ -70,7 +70,7 @@ margin-left: 43%;
     object-fit:cover;
 
 }
-
+/* Personal head shot */
 .headshot {
     max-height: 250px;
     max-width: 250px;
@@ -85,6 +85,8 @@ margin-left: 43%;
     border-radius: 25px;
     box-shadow: 15px 10px 10px 5px  #12232E;
 }
+
+/* nav links */
 .container .pageTitle h1 {
     display: inline-block;
     font-size: 20px;
@@ -147,6 +149,7 @@ nav .navButton {
     display: inline-flex;
 }
 
+/* start of main content */
 main {
     width: 100%;
 
@@ -154,7 +157,7 @@ main {
     flex-flow: row wrap;
     justify-content: space-evenly;
 }
-
+/* About me section */
 main .aboutMe {
     margin: 10em;
     margin-top: 10px;
@@ -173,7 +176,7 @@ padding: 10px;
 text-align: center;
 
 }
-
+/* Portfolio section with web applicaitons */
 .portfolio {
     margin: 10px;
     margin-top: 20px;
@@ -264,7 +267,7 @@ a {
 }
 
 
-
+/* Contact info section */
 .contactInfo h2 {
     text-align: center;
     width: 100%;
@@ -280,7 +283,7 @@ a {
     padding-bottom: 50px;
 
 }
-
+/* Contact buttons */
 .footButton {
     margin:30px;
     background-color:#12232E;
@@ -294,7 +297,7 @@ a {
     width:15%
 }
 
-
+/* Footer section */
 footer {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -325,7 +328,7 @@ footer .footButton {
 
 
 
-
+/* All media queries */
 @media screen and (max-width: 992px) {
     .container nav li {
         margin: 7px;
