@@ -10,7 +10,7 @@
 
 
 This personal protfolio will be able to show off my work and progress throughout my course.
-The html and css pages follow best practices for file structure and nameing conventions as well ad indentations and comments.
+The html and css pages follow best practices for file structure and nameing conventions as well ad indentations and
 I have included my full name, a recent photo and links to sections in my page.
 If you click on the links, the page wil scroll to that section.
 In the protfolio section, I have added 2 projects i have worked on so far, with the first application image larger than the other. If you click on the application, it will open in a new tab.
@@ -24,7 +24,7 @@ Desktop screen:
 
 Smaller devices screen example:
 
-![Top-Page-Area](assets/images/400 px-JB-Personal-Portfolio.png "Top-Page-Area")
+![Top-Page-Area](assets/images/400-px-JB-Personal-Portfolio.png "Top-Page-Area")
 
 <a name="web-address"></a>
 ## 2. How to Get There
